@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Secrets
+.streamlit/secrets.toml
+
+# Large data files (commit these or use Git LFS)
+# data/faiss.index
+# data/metadata.json
+# data/scraped_pages.json
+# data/chunks.json
+
+# OS
+.DS_Store
+Thumbs.db
